@@ -1,3 +1,6 @@
+print("hola mundo")
+print("hello world")
+
 import time
 
 import redis
